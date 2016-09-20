@@ -1,0 +1,54 @@
+h1 {
+  color: #36454f;
+  text-align: center;
+  font-size: 30pt;
+}
+#SDpic, #Romepic, #paris, #barcelona, #london, #ny, #sydney, #tokyo1, #queenstown1, #aspen1{
+  float: left;
+  margin: 10px;
+  width: 500px;
+}
+body {
+  background-color: #708090;
+}
+nav {
+  font-family: fantasy;
+  text-align: center;
+}
+p {
+  font-weight: bolder;
+}
+table {
+  border-width: medium;
+  border-color: #36454f;
+  border-style: solid;
+}
+#homepage {
+  background-image: url("http://weknowyourdreams.com/images/sand/sand-02.jpg");
+}
+
+#tokyopic {
+  clear: left;
+  width: 450px;
+}
+
+#queenstown {
+  padding-left: 1000px
+  clear: right;
+  width: 450px;
+
+}
+
+#london {
+  clear: left;
+  width: 450px;
+}
+
+section {
+  padding-top: 375px;
+}
+
+#right {
+  text-align: right;
+  font-size: 30pt;
+}
